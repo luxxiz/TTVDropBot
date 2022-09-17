@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD032 MD033-->
 
 <h1 align="center">
-  <a name="logo" href="https://github.com/Zaarrg/TTVDropBot"><img src="https://i.imgur.com/2WtgNe4.png" alt="Bear Stone Smart Home" width="200"></a>
+  <a name="logo" href="https://github.com/luxxiz/TTVDropBot"><img src="https://i.imgur.com/2WtgNe4.png" alt="Bear Stone Smart Home" width="200"></a>
   <br>
   TTVDropBot
 </h1>
